@@ -34,3 +34,26 @@ R3ST/
 │   ├── Camera2/
 │   │   └── ...
 ```
+
+## 📚 Citation
+
+If you use **R3ST** in your research, please cite our paper:
+
+### BibTeX
+
+```bibtex
+@inproceedings{
+          teglia2025rst,
+          title={R3{ST}: A Synthetic Dataset with Real Trajectories for Urban Traffic Analysis},
+          author={Simone Teglia and Claudia Melis Tonti and Francesco Pro and Leonardo Russo and Andrea Alfarano and Matteo Pentassuglia and Irene Amerini},
+          booktitle={Synthetic Data for Computer Vision Workshop @ CVPR 2025},
+          year={2025},
+          url={https://openreview.net/forum?id=VCORXe6I5B}
+          }
+```
+
+
+
+
+
+
